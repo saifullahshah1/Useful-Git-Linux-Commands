@@ -1,6 +1,6 @@
 # Useful-Git-Linux-Commands
 
-##Useful Git Commands
+## Useful Git Commands
 
 1) git init
 
@@ -12,4 +12,4 @@ It is used to create a new git repository. When we run this command in any given
 hidden directory is created after running git init. Which is the git directory created. 
 
 
-##Useful Linux Commands
+## Useful Linux Commands
