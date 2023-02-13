@@ -60,11 +60,61 @@ $git clone [url-of-repository]
 ```
 Description: 
 
-It creates a copy of the remote repository locally.
-Code from that url will be downloaded automatically once this command runs.
-
-
-
-
+- It creates a copy of the remote repository locally.
+- Code from that url will be downloaded automatically once this command runs.
 
 ## Useful Linux Commands
+
+1. ls
+
+Command:
+```
+$ls
+```
+Description:
+
+- This lists the contents of the directory. 
+- Content such as files and other directories are listed.
+
+2. pwd
+
+Command:
+```
+$pwd
+```
+Description:
+
+- This prints path of the current working directory you are in.
+- It gives the whole absolute path of the directory.
+
+3. cd
+
+Command:
+```
+$cd [name-of-directory-you-want-to-move-to]
+```
+Description:
+
+- It changes the current directory to the one you provided after cd.
+
+4. mv
+
+Command:
+```
+$mv [source-file] [destination-path]
+```
+Description:
+
+- It is used to move the files and directories from one path to another.
+- First we give the file/directory name we want to move.
+- Then we give the path where we want to move it to.
+
+5. exit 
+
+Command:
+```
+$exit 
+```
+Description:
+
+- Closes the terminal.
