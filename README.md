@@ -1,5 +1,7 @@
 # Useful-Git-Linux-Commands
 
+Following are few of the useful git and linux commands that are very helpful. 
+
 ## Useful Git Commands
 
 1. git init
